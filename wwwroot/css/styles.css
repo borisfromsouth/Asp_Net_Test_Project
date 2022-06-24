@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.field-validation-error { color: #f00; }      /* хз для чего */
+.field-validation-valid { display: none; }    /* для текстбокса */
+.input-validation-error {                     /* для текстбокса */
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+.validation-summary-errors {                  /* для текста ошибки */
+    font-weight: bold;
+    color: #f00;
+}
+.validation-summary-valid {                   /* для текста ошибки */
+    display: none;
+}

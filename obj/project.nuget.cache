@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlkLz1+7vPDf1QVMUAO8bJtJNmh/AEl/Z5Uaix0mv72ddmahT5I0TQqVS2k7bBg658hdPUFJP17QzSkrobrQ8Q==",
+  "dgSpecHash": "uA+wKpFWEpGiGchII4GbGESTnsNMXB7y4CdBs1RkdmCpfer9SgHHqeB04pzL7XGuRKVS8WKd7nstWjt+Y9Dleg==",
   "success": true,
-  "projectFilePath": "D:\\Asp_Projects\\AspNetTest\\PartyInvites\\PartyInvites.csproj",
+  "projectFilePath": "D:\\Asp_Projects\\PartyInvites_git\\Asp_Net_Test_Project\\PartyInvites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
